@@ -64,8 +64,6 @@ $this->extend('Layout/principal') ?>
             $("#form").on('submit', function(e) {
                 e.preventDefault();
 
-                var dados = $('#form').serialize();
-
                 $.ajax({
                     type: 'POST',
                     url: '<?php echo site_url('usuarios/atualizar'); ?>',
