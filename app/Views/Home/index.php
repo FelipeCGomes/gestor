@@ -1,20 +1,20 @@
-<?= $this->extend('Layout/principal') ?>
+<?php echo $this->extend('Layout/principal') ?>
 
-<?= $this->section('titulo') ?>
+<?php echo $this->section('titulo') ?>
     
     <?php echo $titulo; ?>
     
-<?= $this->endSection() ?>
+<?php echo $this->endSection() ?>
 
 
-<?= $this->section('estilos') ?>
+<?php echo $this->section('estilos') ?>
     
-<?= $this->endSection() ?>
+<?php echo $this->endSection() ?>
 
-<?= $this->section('conteudo') ?>
+<?php echo $this->section('conteudo') ?>
     
-<?= $this->endSection() ?>
+<?php echo $this->endSection() ?>
 
-<?= $this->section('scripts') ?>
+<?php echo $this->section('scripts') ?>
     
-<?= $this->endSection() ?>
+<?php echo $this->endSection() ?>

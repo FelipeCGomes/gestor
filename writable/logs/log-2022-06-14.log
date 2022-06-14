@@ -203,3 +203,486 @@ CRITICAL - 2022-06-14 09:52:14 --> Argument 1 passed to App\Controllers\Usuarios
 #3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
 #4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
 #5 {main}
+CRITICAL - 2022-06-14 11:34:22 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:34:22 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:34:22 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:35:39 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:35:39 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:35:39 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:10 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:10 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:10 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:14 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:21 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:22 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:42:22 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:07 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:07 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:07 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:22 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:22 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:22 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:51:52 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:52:03 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:52:04 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 11:52:04 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:01:26 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:01:26 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:01:26 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:01:53 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:01:53 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:01:53 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:02:55 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:02:55 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:02:55 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:13:15 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:13:15 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:13:15 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:24 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:25 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:25 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:27 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:27 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:27 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:38 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:38 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:38 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:41 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:41 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:14:41 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:19:32 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:19:32 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:19:32 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:38:42 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:38:42 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:38:42 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:40:42 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:40:42 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:40:42 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:41:49 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:41:49 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:41:49 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:41:51 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:41:51 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:41:51 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:42:36 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:42:36 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-06-14 12:42:36 --> Argument 1 passed to App\Controllers\Usuarios::editar() must be of the type int or null, string given, called in C:\xampp\htdocs\gestor\system\CodeIgniter.php on line 931
+#0 C:\xampp\htdocs\gestor\system\CodeIgniter.php(931): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+#1 C:\xampp\htdocs\gestor\system\CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\gestor\system\CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gestor\public\index.php(36): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\gestor\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}

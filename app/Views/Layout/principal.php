@@ -30,11 +30,11 @@
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
 
-    <!-- /////////////////////////////////////////////////////////// -->
+    <!-- Estilos -->
 
     <?php echo $this->renderSection('estilos'); ?>
 
-    <!-- /////////////////////////////////////////////////////////// -->
+    <!-- Estilos -->
 
 
 </head>
@@ -231,11 +231,11 @@
             <div class="page-header">
                 <div class="container-fluid">
 
-                    <!-- /////////////////////////////////////////////////////////// -->
+                    <!-- Subtitulo -->
 
                     <h2 class="h5 no-margin-bottom"><?php echo $subtitulo ?></h2>
 
-                    <!-- /////////////////////////////////////////////////////////// -->
+                    <!-- Subtitulo -->
 
                 </div>
             </div>
@@ -244,10 +244,10 @@
 
 
                 <div class="container-fluid">
-                    <!-- /////////////////////////////////////////////////////////// -->
+                    <!-- Conteudo -->
                     <?php echo $this->renderSection('conteudo'); ?>
 
-                    <!-- /////////////////////////////////////////////////////////// -->
+                    <!-- Conteudo -->
                 </div>
 
 
@@ -270,9 +270,10 @@
     <script src="<?php echo site_url('recursos/') ?>vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="<?php echo site_url('recursos/') ?>js/front.js"></script>
 
-    <!-- /////////////////////////////////////////////////////////// -->
+    <!-- Scripts -->
     <?php echo $this->renderSection('scritps'); ?>
-    <!-- /////////////////////////////////////////////////////////// -->
+
+    <!-- Scripts -->
 
 </body>
 

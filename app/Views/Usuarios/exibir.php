@@ -1,17 +1,17 @@
-<?php $this->extend('Layout/principal') ?>
+<?php echo $this->extend('Layout/principal') ?>
 
-<?php $this->section('titulo') ?>
+<?php echo $this->section('titulo') ?>
 
 <?php echo $titulo; ?>
 
-<?php $this->endSection() ?>
+<?php echo $this->endSection() ?>
 
 
-<?php $this->section('estilos') ?>
+<?php echo $this->section('estilos') ?>
 
-<?php $this->endSection() ?>
+<?php echo $this->endSection() ?>
 
-<?php $this->section('conteudo') ?>
+<?php echo $this->section('conteudo') ?>
 
 <div class="row">
 
@@ -61,8 +61,8 @@
 
 </div>
 
-<?php $this->endSection() ?>
+<?php echo $this->endSection() ?>
 
-<?php $this->section('scripts') ?>
-
-<?php $this->endSection() ?>
+<?php echo $this->section('scripts') ?>
+    
+<?php echo $this->endSection() ?>
